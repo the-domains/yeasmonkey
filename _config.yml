@@ -1,19 +1,4 @@
-name: yeasmonkey
-favicon: null
-layout_spectrum: 0.619890735251829
 typography_spectrum: 0.5888125360943377
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#9D2D3C'
@@ -25,4 +10,20 @@ color:
   lightness: 0.7874797177501023
   saturation: 0.2798602292314172
   rhythmicContrast: 0.8434753562323749
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.619890735251829
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: yeasmonkey
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: SEE MEE
 purpose: []
